@@ -1,0 +1,8 @@
+name: SurvivalGames
+version: 1.0
+main: ondre.sg.Main
+author: Ondre
+
+commands:
+    setlobby:
+    setspawn:
